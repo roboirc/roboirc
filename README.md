@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to roboirc's github about me
 
 <!--
 **roboirc/roboirc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
